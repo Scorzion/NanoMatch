@@ -198,7 +198,3 @@ sudo perf script | stackcollapse-perf.pl | flamegraph.pl > flame.svg
 Built as part of the **FEC · IIT Guwahati** Quant-Systems Engineering track (Project NanoMatch, 03/06). Guided by mentors Shubham Rane and Tanishq Kothari.
 
 ---
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
